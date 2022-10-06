@@ -1,2 +1,3 @@
 # paintjs
-Painting Board made with VanillaJS
+JS(자바스크립트)로 그림판 만들기
+기능 - 그리기, 채우기, 리셋, 저장
